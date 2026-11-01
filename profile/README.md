@@ -114,7 +114,7 @@ Whether it is navigating complex cadastral lake buffer regulations before buying
 
 ```
 ┌──────────────────────────────┬──────────────────────────────┐
-│  🗺️ Spatial & Cadastral GIS   │  🔐 Zero-Knowledge Security  │
+│  🗺️ Spatial & Cadastral GIS  │  🔐 Zero-Knowledge Security  │
 │  • Lake FTL & buffer analysis│  • AES-256-GCM encryption    │
 │  • Turf.js geometric algebra │  • Ephemeral token delegation│
 │  • Mappls & Leaflet pipelines│  • Oracle ADB / OCI Vault    │
@@ -141,9 +141,9 @@ SnapLabs is designed, developed, and maintained by three friends:
 
 | Engineer | Primary Focus | Connect |
 | :--- | :--- | :--- |
-| **Nikhil Malisetty** | **Systems & Frontend Architect**<br />Resilient web architectures, tactile UI ergonomics, and autonomous agent-driven development workflows. | [@nikhilmalisetty](https://github.com/nikhilmalisetty) |
-| **Prem Swaroop** | **Spatial Systems & Product Engineer**<br />Geospatial geometry, cadastral buffer algorithms, regulatory compliance pipelines, and cloud systems. | [@akpremswaroop](https://github.com/akpremswaroop) |
-| **Sree Teja Gunda** | **Fullstack & Mobile Engineer**<br />Reactive interface patterns, cross-platform mobile apps (Capacitor/PWA), and developer productivity tooling. | [@gundasreeteja](https://github.com/gundasreeteja) |
+| **Nikhil Malisetty** | **Systems & Full-Stack Architect**<br />Cross-platform mobile apps, resilient cloud architectures, tactile UI ergonomics, and autonomous agent workflows. | [@nikhilmalisetty](https://github.com/nikhilmalisetty) • [LinkedIn](https://www.linkedin.com/in/nikhilmalisetty/) |
+| **Prem Swaroop** | **Quality & Systems Engineer**<br />Large-scale test automation, systems reliability, Python & ML workflows. | [@akpremswaroop](https://github.com/akpremswaroop) • [LinkedIn](https://www.linkedin.com/in/akpremswaroop/) |
+| **Sree Teja Gunda** | **Senior Backend & Cloud Engineer**<br />Distributed microservices, cloud infrastructure, REST API performance, and application security. | [@gundasreeteja](https://github.com/gundasreeteja) • [LinkedIn](https://www.linkedin.com/in/sreetejagunda/) |
 
 ---
 
